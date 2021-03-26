@@ -1,0 +1,20 @@
+{
+    "name": "BornCrypto",
+    "logoURI": "https://coin.top/production/upload/logo/THAX2N14fQmKQDHvGvA3fv7nrgXYb5eKFc.png",
+    "timestamp": 1610339529000,
+    "token" : [
+        {
+            "chainId": 1, 
+            "address": "THAX2N14fQmKQDHvGvA3fv7nrgXYb5eKFc",
+            "name": "BornCrypto",
+            "symbol": "BORN",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/THAX2N14fQmKQDHvGvA3fv7nrgXYb5eKFc.png"
+        }
+    ],
+    "version": {
+        "major": 1, 
+        "minor": 0,
+        "patch": 0  
+    }
+ }
